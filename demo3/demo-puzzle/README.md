@@ -1,4 +1,6 @@
 # demo-puzzle
+一个vue demo
+拼图小游戏
 
 ## Project setup
 ```
